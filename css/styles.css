@@ -23,3 +23,15 @@ h1 {
 h2 {
   font-family: sans-serif;
 }
+
+.tarzan {
+  color: orangered;
+  font-family: sans-serif;
+  width: 75%;
+}
+
+.title {
+  text-align: right;
+  color: darkred;
+  font-family: sans-serif;
+}
