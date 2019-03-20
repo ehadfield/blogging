@@ -1,0 +1,21 @@
+.canopy {
+  color: green;
+  width: 75%;
+  font-family: sans-serif;
+}
+
+.frog {
+  color: orange;
+  width: 75%;
+  font-family: sans-serif;
+}
+
+.about {
+  text-align: right;
+  color: purple;
+  font-family: sans-serif;
+}
+h1{
+  text-align: center;
+
+}
